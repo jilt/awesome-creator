@@ -6,8 +6,8 @@ Awesome Creator is a tool build on top of the Stargaze Studio to facilitate inte
 ![Idea-IBC](https://github.com/jilt/awesome-creator/blob/main/Awesome-creator.png)
 
 Mentioned tools and communities in the Interchain and beyond:
-Stargaze Studio [Repo](https://github.com/public-awesome/stargaze-studio) and [Docs](https://docs.stargaze.zone/creator-tools/stargaze-studio)
-[Fractal](https://fractal.fun/)
-Possible Ai DeFi assistant platfoms to collaborate [humans](https://humans.ai/), [fetch.ai](https://fetch.ai/) and [Paal](https://paal.ai/)
-[Account management](https://www.litprotocol.com/)
-[Solana Blinks](https://github.com/solana-developers/solana-actions)
+_Stargaze Studio [Repo](https://github.com/public-awesome/stargaze-studio) and [Docs](https://docs.stargaze.zone/creator-tools/stargaze-studio)
+_[Fractal](https://fractal.fun/)
+_Possible Ai DeFi assistant platfoms to collaborate [humans](https://humans.ai/), [fetch.ai](https://fetch.ai/) and [Paal](https://paal.ai/)
+_[Account management](https://www.litprotocol.com/)
+_[Solana Blinks](https://github.com/solana-developers/solana-actions)
